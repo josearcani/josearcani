@@ -1,9 +1,4 @@
-### Hi there, I'm @josearcani 👋
-
-## I'm a Developer and Electronic!
-- 🌱 I’m currently learning everything
-- 🥅 2022 Goal: Contribute to Open Source projects
-- ⚡ Fun fact: I love to read and play musical instruments
+### Hi there
 
 ### Connect with me:
 
