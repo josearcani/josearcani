@@ -1,33 +1,19 @@
-### Hi there
+### Hi, I'm Jose Arcani
 
-### Connect with me:
+Software engineer building **.NET backends and React interfaces**, and integrating **AI into real systems**. 3+ years across ERP, banking and real-time communication platforms. I use Claude Code and Cursor daily and build custom agents and skills for recurring team tasks.
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Based in La Paz, Bolivia · Spanish (native) / English
 
-<br />
+### What I'm working on
+- **Now:** a sanitized toolkit of Claude Code skills, agents and hooks.
+- **Next:** an MCP server in C#, a RAG app in .NET + React, and a multi-model LLM evaluation harness.
 
-### Languages and Tools:
+### Stack
+- **AI:** Claude Code, Cursor, custom agents and skills, context/token-cost tuning
+- **Backend:** .NET, C#, Entity Framework Core, Dapper, SignalR, MassTransit, RabbitMQ, CQRS
+- **Data:** SQL Server, MongoDB
+- **Frontend:** React, TypeScript, Redux
+- **DevOps & tools:** Git, GitHub Actions, Azure DevOps, Docker, xUnit
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][linkedin]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][linkedin]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][linkedin]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][linkedin]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][linkedin]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][linkedin]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][linkedin]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][linkedin]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
-
-<br />
-
-<!---
-josearcani/josearcani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[twitter]: https://twitter.com/jose_arcani
-[linkedin]: https://www.linkedin.com/in/josearcani
+### Find me
+[Website](https://josearcani.com) · [LinkedIn](https://www.linkedin.com/in/josearcani/) · [Email](mailto:jose.arcani@outlook.com)
